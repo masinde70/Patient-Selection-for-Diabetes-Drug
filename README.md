@@ -8,7 +8,7 @@ In order to achieve your goal you must first build a regression model that can p
 
 ##  Dataset
 
-Expected Hospitalization Time Regression and Uncertainty Estimation Model: Utilizing a synthetic dataset(upsampled, denormalized, with line level augmentation) built off of the UCI Diabetes readmission dataset, students will build a regression model that predicts the expected days of hospitalization time and an uncertainty range estimation.
+Expected Hospitalization Time Regression and Uncertainty Estimation Model: Utilizing a synthetic dataset(upsampled, denormalized, with line level augmentation) built off of the UCI Diabetes readmission dataset, we will build a regression model that predicts the expected days of hospitalization time and an uncertainty range estimation.
 
 ### Project
 
